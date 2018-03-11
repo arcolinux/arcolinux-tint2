@@ -1,1 +1,1 @@
-# ArcoLinux-variety-config
+# ArcoLinux-tint2-config
